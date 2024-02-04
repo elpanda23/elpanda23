@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**elpanda23/elpanda23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I am Alex <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
 
-Here are some ideas to get you started:
+I am a beginner Python developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fact:
+- 🌱 I work for Yandex, in a team of Bug hunters
+- ⚡ I started learning Python in September 2023
+- 🔭 I teach : SQL, JSON, API
+
+### ⭐ Codewars Stats
+![Codewars](https://github.r2v.ch/codewars?user=elpanda23)
+
+ ### ⭐ GitHub Stats
+
+ <p> 
+    <img src="https://github-readme-stats.vercel.app/api?username=elpanda23&count_private=true&show_icons=true&theme=default&line" alt="Nikunj Stats" width="420"/> 
+ </p>
