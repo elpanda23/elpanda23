@@ -4,7 +4,7 @@
 I am a beginner Python developer
 
 Fact:
-- 🌱 I work for Yandex, in a team of Bug hunters
+- 🌱 I work in a team of Bug hunters
 - ⚡ I started learning Python in September 2023
 - 🔭 I teach : SQL, JSON, API
 
