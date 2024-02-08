@@ -8,9 +8,9 @@ Fact:
 - ⚡ I started learning Python in September 2023
 - 🔭 I teach : SQL, JSON, API
 
-Courses/Progress:
-✅stepik "Поколение Python"
-✅CodeBasics Python
+Courses/Progress:  
+✅stepik "Поколение Python"  
+✅CodeBasics Python  
 
 ### ⭐ Codewars Stats
 ![Codewars](https://github.r2v.ch/codewars?user=elpanda23)
