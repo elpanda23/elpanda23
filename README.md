@@ -1,16 +1,8 @@
 
 ## Hi, I am Alex <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
 
-I am a beginner Python developer
-
 Fact:
-- 🌱 I work in a team of Bug hunters
-- ⚡ I started learning Python in September 2023
-- 🔭 I teach : SQL, JSON, API
-
-Courses/Progress:  
-✅stepik "Поколение Python"  
-✅CodeBasics Python  
+- 🔭 I teach : HTML, SQL, JSON, API, PHP
 
 ### ⭐ Codewars Stats
 ![Codewars](https://github.r2v.ch/codewars?user=elpanda23)
