@@ -2,7 +2,7 @@
 ## Hi, I am Alex <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
 
 Fact:
-- 🔭 I teach : HTML, SQL, JSON, API, PHP
+- 🔭 I teach : AI
 
 ### ⭐ Codewars Stats
 ![Codewars](https://github.r2v.ch/codewars?user=elpanda23)
