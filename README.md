@@ -1,5 +1,5 @@
 
-## Hi, I am Alex <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
+##Alex <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 Fact:
 - 🔭 I teach : AI
